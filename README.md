@@ -6,10 +6,10 @@
 =======
 Мой дискорд
   NotEvil#576
-
+=======
 ВКонтакте
  https://vk.com/no1evil
-
+=======
 Сервер в дискорде
  https://discord.gg/HGjkkAVSvd
 ======
