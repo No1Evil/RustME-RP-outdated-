@@ -2,7 +2,7 @@
 Мои наработки для rustme.ru
 =======
 Мой дискорд
-  NotEvil#576
+  __NotEvil#5768__
 =======
 ВКонтакте
  https://vk.com/no1evil
