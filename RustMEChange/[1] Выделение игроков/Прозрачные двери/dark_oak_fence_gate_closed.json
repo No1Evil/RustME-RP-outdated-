@@ -1,0 +1,159 @@
+{
+	"credit": "Собственность NotEvil-a",
+	"ambientocclusion": false,
+	"textures": {
+		"evilworks": "models/misc/quarts_blue",
+		"door_lower": "blocks/door_dark_oak_lower"
+	},
+	"elements": [
+		{
+			"name": "Voxels-FFFFFF",
+			"from": [0, 0, 7],
+			"to": [16, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#door_lower"},
+				"east": {"uv": [0, 13, 16, 15], "rotation": 90, "texture": "#door_lower"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#door_lower"},
+				"west": {"uv": [0, 13, 16, 15], "rotation": 90, "texture": "#door_lower"},
+				"up": {"uv": [0, 13, 16, 15], "rotation": 180, "texture": "#door_lower"},
+				"down": {"uv": [0, 13, 16, 15], "rotation": 180, "texture": "#door_lower"}
+			}
+		},
+		{
+			"name": "NotEvil",
+			"from": [0, 16, 7],
+			"to": [16, 19, 9],
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 3], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 16], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 16], "rotation": 270, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil",
+			"from": [0, 29, 7],
+			"to": [16, 32, 9],
+			"color": 1,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 3], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 16], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 16], "rotation": 270, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil",
+			"from": [12, 19, 7],
+			"to": [16, 29, 9],
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 10, 4], "rotation": 270, "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 10, 4], "rotation": 90, "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 10], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 4], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 4], "rotation": 90, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil-bar",
+			"from": [10.3, 19, 7],
+			"to": [10.9, 29, 9],
+			"color": 4,
+			"faces": {
+				"north": {"uv": [0, 0, 10, 0.5], "rotation": 270, "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 10, 0.5], "rotation": 90, "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 10], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 0.5], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 0.5], "rotation": 90, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil-bar",
+			"from": [7.6, 19, 7],
+			"to": [8.2, 29, 9],
+			"color": 7,
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 10], "rotation": 180, "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 0.5, 10], "rotation": 180, "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 0.5], "rotation": 270, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 0.5], "rotation": 90, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil",
+			"from": [0, 19, 7],
+			"to": [4, 29, 9],
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 10, 4], "rotation": 270, "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 10, 4], "rotation": 90, "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 10], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 4], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 4], "rotation": 90, "texture": "#evilworks"}
+			}
+		},
+		{
+			"name": "NotEvil-bar",
+			"from": [5, 19, 7],
+			"to": [5.6, 29, 9],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 10, 0.5], "rotation": 270, "texture": "#evilworks"},
+				"east": {"uv": [0, 0, 2, 10], "rotation": 180, "texture": "#evilworks"},
+				"south": {"uv": [0, 0, 10, 0.5], "rotation": 90, "texture": "#evilworks"},
+				"west": {"uv": [0, 0, 2, 10], "texture": "#evilworks"},
+				"up": {"uv": [0, 0, 2, 0.5], "rotation": 90, "texture": "#evilworks"},
+				"down": {"uv": [0, 0, 2, 0.5], "rotation": 90, "texture": "#evilworks"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [35, -45, 0],
+			"translation": [-1.5, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [35, 135, 0],
+			"translation": [-1.5, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, -1],
+			"scale": [0.15, 0.15, 0.15]
+		},
+		"gui": {
+			"rotation": [-10, -40, -30],
+			"translation": [-1.25, -2.9, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	},
+	"groups": [0,
+		{
+			"name": "NotEvil-door-up",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2, 3, 4, 5, 6, 7]
+		}
+	]
+}
